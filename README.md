@@ -40,3 +40,4 @@ Now you can just `git push prod master` on your local repo to deploy without ssh
 ssh james@107.170.247.179
 ```
 and ask me for the password. The repo is located at /home/james/app. Just `git pull` to update it. You may need to restart the app with `pm2 restart server.js`.
+# app
